@@ -1,0 +1,5 @@
+Added Component: Designator=D7(SMA)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=V_USB Pin=D7-1
+Added Pin To Net: NetName=+5 Pin=D7-2
+Added Member To Class: ClassName=CPU Member=Component D7 1N4007

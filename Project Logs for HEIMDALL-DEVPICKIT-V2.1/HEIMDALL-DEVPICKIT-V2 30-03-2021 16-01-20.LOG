@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=V_USB Pin=D7-1
+Removed Pin From Net: NetName=+5 Pin=D7-2
+Removed Member From Class: ClassName=CPU Member=D7
